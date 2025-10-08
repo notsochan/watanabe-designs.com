@@ -6,8 +6,7 @@
 ---
 
 ## 🎯 Professional Summary
-Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.
-
+Hi, I go by Watanabe — a UX designer passionate about creating intuitive, human-centered digital experiences. I focus on designing interfaces that not only look clean and modern but also solve real user problems through thoughtful research and usability. My approach combines empathy, design thinking, and attention to detail to craft seamless journeys across web and mobile platforms.
 ---
 
 ## 🎓 Education
